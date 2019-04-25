@@ -1,1 +1,1 @@
-# Neural-Text-Style-Transfer_URDU-Kerning
+# Neural Text Style Transfer for URDU with Kerning applied.
